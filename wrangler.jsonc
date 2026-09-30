@@ -1,0 +1,9 @@
+// Site da Hope — conta PESSOAL do Danilo (danilomartinelliv), não a da GKS.
+// Publicar: npx wrangler deploy   (antes: npx wrangler whoami deve mostrar danilomartinelliv@gmail.com)
+{
+  "name": "wild-salad-47cb",
+  "account_id": "f63bc215885c0273fe48d5b01392e1cb",
+  "compatibility_date": "2026-09-26",
+  "preview_urls": false,
+  "assets": { "directory": "./cf-site" }
+}
